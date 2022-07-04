@@ -1,4 +1,4 @@
-# Website with Create React App
+# Website made with Create React App
 
 ## https://downloadyourqrcode.netlify.app/
 
